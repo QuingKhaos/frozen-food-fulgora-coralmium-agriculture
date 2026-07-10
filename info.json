@@ -1,12 +1,17 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "frozen-food-fulgora-coralmium-agriculture",
+  "title": "Frozen Food for Wooden Fulgora: Coralmium Agriculture",
+  "description": "Adds frozen food support to Coralmium Agriculture.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.77",
+
+    "FrozenFood >= 1.2.2",
+    "FrozenFoodLib >= 1.0.0",
+
+    "fulgora-coralmium-agriculture >= 1.2.7"
   ]
 }
